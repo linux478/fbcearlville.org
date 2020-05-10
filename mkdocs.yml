@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: First Baptist Church of Earlville, NY
+theme:
+  name: material
+  features:
+    - tabs
+  language: en
+  direction: ltr
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+repo_name: linux478/fbcearlville.org
+repo_url: https://github.com/linux478/fbcearlville.org
